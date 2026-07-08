@@ -2,6 +2,8 @@
 
 A production-grade, SaaS-quality Full Stack Project and Task Management Dashboard built for the **EnvisionStudio Web Developer Practical Assessment**. 
 
+**🔗 Live Production App:** [https://zenith-flow-omega.vercel.app](https://zenith-flow-omega.vercel.app)
+
 Zenith Flow is designed with a premium dark-themed aesthetic, utilizing fluid animations, glassmorphism, responsive grid sheets, and structured telemetry charts. It features a complete SQLite database backend powered by Prisma ORM 7, Next.js 16 App Router handlers, optimistic TanStack Query mutations, and drag-and-drop Kanban task boards.
 
 ---
